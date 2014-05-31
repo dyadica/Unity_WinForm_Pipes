@@ -28,5 +28,5 @@ ehthumbs.db
 Thumbs.db
 sysinfo.txt
 # -----------------[ end ]----------------------------- #
-!WinForm Pipe App/*.sln
-!WinForm Pipe App/*.csproj
+!Pipe_App_Unity/*.sln
+!Pipe_App_WF/*.csproj
